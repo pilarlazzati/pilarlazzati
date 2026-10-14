@@ -1,6 +1,6 @@
 # Pilar Lazzati
 
-**Founder and AI CMO, Dalai Group** | AI Revenue Systems and Agent Departments
+**Founder and AI CMO, Dalai Group** | AI Revenue Systems and Agent Departments  
 4x founder, 2 exits. 20+ years scaling brands across 27+ countries, including HBO, Citi and Nestlé.
 
 I build AI revenue systems that show leaders where revenue is getting stuck and what to do next, and agent systems that work like departments: each agent owns a job, and people approve what matters. I run them on my own pipeline first.
@@ -11,16 +11,16 @@ I build AI revenue systems that show leaders where revenue is getting stuck and 
 
 ## What I build
 
-**Revenue Engine** (private)
+**Revenue Engine** (private)  
 A pipeline system that reads live sales records, flags where deals stall, and shows the next action. Python (FastAPI) backend, React front end, passcode-protected, tested. Read-only first, by design. [Public walkthrough](https://github.com/pilarlazzati/revenue-engine-case-study)
 
-**AI Marketing Brain** (OmniFy)
+**AI Marketing Brain** (OmniFy)  
 A decision layer that sits next to a CMO: finds gaps, moves budget, decides what to grow and what to stop.
 
-**AI Product Photography App**
+**AI Product Photography App**  
 End to end: front end, back end, image pipelines, deployment.
 
-**Agent departments**
+**Agent departments**  
 Teams of agents with clear jobs: pipeline follow-up, editorial, HR, and an AI Chief of Staff that coordinates them. One operating loop: diagnose, prioritize, execute, measure, learn. Humans approve anything that touches a customer.
 
 ---
