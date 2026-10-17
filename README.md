@@ -5,7 +5,7 @@
 4x founder, 2 exits. 20+ years scaling brands across 27+ countries, including HBO, Citi and Nestlé.
 
 
-I build AI revenue systems that show leaders where revenue is getting stuck and what to do next, and agent systems that work like departments: each agent owns a job, and people approve what matters. I run them on my own pipeline first.
+I build AI revenue systems that show leaders where revenue is getting stuck and what to do next, and agent systems that work like departments: each agent owns a job, your people stay in charge, and a person approves what matters. I run them on my own pipeline first.
 
 
 [dalaigroup.com](https://dalaigroup.com) | [LinkedIn](https://linkedin.com/in/pilarlazzati)
