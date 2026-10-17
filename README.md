@@ -17,6 +17,10 @@ I build AI revenue systems that show leaders where revenue is getting stuck and 
 ## What I build
 
 
+**My AI agent department**  
+My current build is a department of AI agents. A CMO agent and a GTM agent run the revenue function, a Chief of Staff agent coordinates the whole system, and a separate HR agent handles people operations. All live. One operating loop: diagnose, prioritize, execute, measure, learn. Humans approve anything that touches a customer.
+
+
 **Revenue Engine** (private)  
 A pipeline system that reads live sales records, flags where deals stall, and shows the next action. Python (FastAPI) backend, React front end, passcode-protected, tested. Read-only first, by design. [Public walkthrough](https://github.com/pilarlazzati/revenue-engine-case-study)
 
@@ -27,10 +31,6 @@ A decision layer that sits next to a CMO: finds gaps, moves budget, decides what
 
 **AI Product Photography App**  
 End to end: front end, back end, image pipelines, deployment.
-
-
-**Agent departments**  
-Teams of agents with clear jobs: pipeline follow-up, editorial, HR, and an AI Chief of Staff that coordinates them. One operating loop: diagnose, prioritize, execute, measure, learn. Humans approve anything that touches a customer.
 
 
 ---
@@ -45,7 +45,7 @@ Teams of agents with clear jobs: pipeline follow-up, editorial, HR, and an AI Ch
 - Ship small, measure, then expand
 
 
-**Stack:** Python, FastAPI, React, JavaScript/TypeScript, OpenAI, Claude, Gemini, HubSpot, n8n, ComfyUI, Replicate
+**Stack:** Python, FastAPI, React, JavaScript/TypeScript, OpenAI, Claude, Gemini, HubSpot, n8n, ComfyUI, Replicate, ElevenLabs, HeyGen
 
 
 ---
